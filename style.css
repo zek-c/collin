@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-p {text-align: center;
+p {text-align: center top;
 font-size: 75px;
 font-weight: 300;
 }
